@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=NetP7_1 Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=NetP7_2 Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=NetP7_3 Pin=U3-4
+Change Component Footprint: Designator=U1 Old Footprint=DIP-4 New Footprint=4n35
+Change Component Footprint: Designator=U2 Old Footprint=DIP-4 New Footprint=4n35
+Change Component Footprint: Designator=U3 Old Footprint=DIP-4 New Footprint=4n35
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetP7_1 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetP7_2 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetP7_3 Pin=U3-5
+Added Room: Name=esquematicoOPTO

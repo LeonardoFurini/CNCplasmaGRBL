@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetP7_1 Pin=R1-1
+Removed Pin From Net: NetName=NetP7_2 Pin=R2-1
+Removed Pin From Net: NetName=NetP7_3 Pin=R3-1
+Removed Pin From Net: NetName=NetP7_4 Pin=R10-2
+Removed Pin From Net: NetName=NetP7_1 Pin=U1-5
+Removed Pin From Net: NetName=NetP7_2 Pin=U2-5
+Removed Pin From Net: NetName=NetP7_3 Pin=U3-5
+Removed Pin From Net: NetName=NetR11_2 Pin=U4-3
+Removed Pin From Net: NetName=+12 Pin=U4-4
+Change Component Footprint: Designator=U4 Old Footprint=DIP-4 New Footprint=4n35
+Added Component: Designator=H?(HOLE_M2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H?(HOLE_M2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H?(HOLE_M2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H?(HOLE_M2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=NetP7_4 Pin=R1-1
+Added Pin To Net: NetName=NetP7_3 Pin=R2-1
+Added Pin To Net: NetName=NetP7_2 Pin=R3-1
+Added Pin To Net: NetName=NetP7_1 Pin=R10-2
+Added Pin To Net: NetName=NetP7_4 Pin=U1-5
+Added Pin To Net: NetName=NetP7_3 Pin=U2-5
+Added Pin To Net: NetName=NetP7_2 Pin=U3-5
+Added Pin To Net: NetName=NetR11_2 Pin=U4-4
+Added Pin To Net: NetName=+12 Pin=U4-5
+Added Member To Class: ClassName=esquematicoOPTO Member=Component H? Hole
+Added Member To Class: ClassName=esquematicoOPTO Member=Component H? Hole
+Added Member To Class: ClassName=esquematicoOPTO Member=Component H? Hole
+Added Member To Class: ClassName=esquematicoOPTO Member=Component H? Hole
+Added Member To Class: ClassName=esquematicoOPTO Member=Component U1 Optoisolator1
+Added Room: Name=esquematicoOPTO

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetR10_1 Pin=U4-1
+Removed Pin From Net: NetName=GNDX Pin=U4-2
+Removed Pin From Net: NetName=NetR11_2 Pin=U4-4
+Removed Pin From Net: NetName=+12 Pin=U4-5
+Change Component Footprint: Designator=U4 Old Footprint=4N35 New Footprint=DIP-6
+Added Pin To Net: NetName=+12 Pin=U4-1
+Added Pin To Net: NetName=NetR11_2 Pin=U4-2
+Added Pin To Net: NetName=GNDX Pin=U4-4
+Added Pin To Net: NetName=NetR10_1 Pin=U4-5

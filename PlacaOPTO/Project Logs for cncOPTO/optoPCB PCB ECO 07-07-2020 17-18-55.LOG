@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=+12 Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=+5 Pin=U6-3
+Removed Member From Class: ClassName=esquematicoOPTO Member=U6
+Added Component: Designator=C?(RAD-0.2)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RAD-0.2)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RAD-0.2)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LM7805)
+Added Component: Designator=U?(LM7805)
+Added Pin To Net: NetName=GNDX Pin=C?-1
+Added Pin To Net: NetName=GNDX Pin=C?-1
+Added Pin To Net: NetName=GNDX Pin=C?-1
+Added Pin To Net: NetName=Net*_2 Pin=C?-2
+Added Pin To Net: NetName=Net*_3 Pin=C?-2
+Added Pin To Net: NetName=Net*_4 Pin=C?-2
+Added Pin To Net: NetName=+12 Pin=U?-1
+Added Pin To Net: NetName=NetP9_2 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=+5 Pin=U?-3
+Added Pin To Net: NetName=+12 Pin=U?-3
+Added Member To Class: ClassName=esquematicoOPTO Member=Component C? 10n
+Added Member To Class: ClassName=esquematicoOPTO Member=Component C? 10n
+Added Member To Class: ClassName=esquematicoOPTO Member=Component C? 10n
+Added Member To Class: ClassName=esquematicoOPTO Member=Component U? LM7812
+Added Member To Class: ClassName=esquematicoOPTO Member=Component U? LM7805
+Added Room: Name=esquematicoOPTO

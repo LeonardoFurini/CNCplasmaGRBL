@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetD1_2 Pin=Q1-3
+Removed Member From Class: ClassName=esquematicoOPTO Member=Q1
+Added Component: Designator=Q?(TO-92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=Q?-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-3
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ?_2
+Added Member To Class: ClassName=esquematicoOPTO Member=Component H? Hole
+Added Member To Class: ClassName=esquematicoOPTO Member=Component H? Hole
+Added Member To Class: ClassName=esquematicoOPTO Member=Component H? Hole
+Added Member To Class: ClassName=esquematicoOPTO Member=Component Q? NPN
+Added Room: Name=esquematicoOPTO
